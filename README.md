@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello world!
+
+My name is Christopher Mahn.
+
+I'm a student in Hamburg, Germany 🇩🇪🇪🇺 and I'm studying Geodesy and Geoinformatics.
+
+I'm currently doing things with Python, ROS and a little bit with Web development. 🐧
+
+You can visit me at: [https://www.cmahn.de](https://www.cmahn.de)
 
 <!--
 **c-mahn/c-mahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
