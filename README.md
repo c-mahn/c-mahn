@@ -2,7 +2,7 @@
 
 My name is Christopher Mahn.
 
-I'm a student in Hamburg, Germany 🇩🇪🇪🇺 and I'm studying Geodesy and Geoinformatics.
+I'm a student in Hamburg, Germany 🏴󠁤󠁥󠁨󠁨󠁿🇩🇪🇪🇺 and I'm studying Geodesy and Geoinformatics.
 
 I'm currently doing things with Python, ROS and a little bit with Web development. 🐧
 
